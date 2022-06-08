@@ -1,7 +1,7 @@
 import React from "react";
 
 const Links = () => {
-  let linkArr = [{ link: "Service" }, { link: "Projects" }, { link: "About" }];
+  let linkArr = [{ link:"Service" }, { link:"Projects" }, { link: "About" }];
 
   return (
     <div>
